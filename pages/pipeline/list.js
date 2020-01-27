@@ -1,8 +1,5 @@
-import { Layout, Row, Col } from 'antd';
-import { Table, Divider, Tag } from 'antd';
-
-
 import Head from 'next/head'
+import { Layout, Row, Col } from 'antd';
 
 import HeaderComponent from '../../components/Header';
 // import FooterComponent from '../../components/Footer';

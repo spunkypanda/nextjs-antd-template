@@ -1,6 +1,5 @@
-import Link from "next/link";
 import Head from 'next/head'
-import { Layout, Menu, Row, Col } from 'antd';
+import { Layout, Row, Col } from 'antd';
 
 import HeaderComponent from '../components/Header';
 

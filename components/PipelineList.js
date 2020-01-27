@@ -1,8 +1,8 @@
 import { useState } from 'react';
+import Link from 'next/link';
 import { Badge, Button, Col, Input, Row, Table } from 'antd';
 
 import DeleteButton from './DeleteButton';
-import Link from 'next/link';
 
 const { Search } = Input;
 

@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import { Button, Col, Form, Icon, Input, Layout, Modal, Row, Select, Upload } from 'antd';
 import Head from 'next/head'
+import { Button, Col, Form, Icon, Input, Layout, Modal, Row, Select, Upload } from 'antd';
 
 import HeaderComponent from '../../components/Header';
 
