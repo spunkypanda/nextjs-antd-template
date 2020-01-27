@@ -4,9 +4,7 @@ import { Layout, Row, Col } from 'antd';
 
 import HeaderComponent from '../components/Header';
 
-const { Header, Content, Footer } = Layout;
-
-
+const { Content, Footer } = Layout;
 
 const Index = () => {
   return (
